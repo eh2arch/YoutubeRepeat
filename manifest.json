@@ -8,7 +8,7 @@
     {
       "matches": ["<all_urls>"],
       "css": ["font-awesome-4.4.0/css/font-awesome.min.css", "custom.css"],
-      "js": ["jquery.min.js", "background.js"]
+      "js": ["jquery.min.js", "iframe_api.js", "www-widgetapi.js", "background.js"]
     }
   ],
   "web_accessible_resources":[
